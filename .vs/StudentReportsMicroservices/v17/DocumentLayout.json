@@ -1,0 +1,478 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91AE0345-DAE1-4F01-A8B3-CFAB936C3357}|FileAnalysisService\\FileAnalysisService.csproj|c:\\users\\flouter\\source\\repos\\csharp\\studentreportsmicroservices\\fileanalysisservice\\migrations\\20250528213407_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AE0345-DAE1-4F01-A8B3-CFAB936C3357}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\migrations\\20250528213407_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9A0FB8-C035-4343-BADA-0D3858C8A926}|FileAnalysisService.Tests\\FileAnalysisService.Tests.csproj|c:\\users\\flouter\\source\\repos\\csharp\\studentreportsmicroservices\\fileanalysisservice.tests\\analysiscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9A0FB8-C035-4343-BADA-0D3858C8A926}|FileAnalysisService.Tests\\FileAnalysisService.Tests.csproj|solutionrelative:fileanalysisservice.tests\\analysiscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFEED9F-C4E8-4DA5-9A13-23D3CBC712F4}|FileStoringService.Tests\\FileStoringService.Tests.csproj|c:\\users\\flouter\\source\\repos\\csharp\\studentreportsmicroservices\\filestoringservice.tests\\filecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFEED9F-C4E8-4DA5-9A13-23D3CBC712F4}|FileStoringService.Tests\\FileStoringService.Tests.csproj|solutionrelative:filestoringservice.tests\\filecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3EB6FD-6FB2-429B-8862-34C5FE42641A}|FileStoringService\\FileStoringService.csproj|c:\\users\\flouter\\source\\repos\\csharp\\studentreportsmicroservices\\filestoringservice\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3EB6FD-6FB2-429B-8862-34C5FE42641A}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3EB6FD-6FB2-429B-8862-34C5FE42641A}|FileStoringService\\FileStoringService.csproj|c:\\users\\flouter\\source\\repos\\csharp\\studentreportsmicroservices\\filestoringservice\\controllers\\filestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3EB6FD-6FB2-429B-8862-34C5FE42641A}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\controllers\\filestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AE0345-DAE1-4F01-A8B3-CFAB936C3357}|FileAnalysisService\\FileAnalysisService.csproj|c:\\users\\flouter\\source\\repos\\csharp\\studentreportsmicroservices\\fileanalysisservice\\controllers\\analysiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AE0345-DAE1-4F01-A8B3-CFAB936C3357}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\controllers\\analysiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AE0345-DAE1-4F01-A8B3-CFAB936C3357}|FileAnalysisService\\FileAnalysisService.csproj|c:\\users\\flouter\\source\\repos\\csharp\\studentreportsmicroservices\\fileanalysisservice\\services\\analysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AE0345-DAE1-4F01-A8B3-CFAB936C3357}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\services\\analysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFEED9F-C4E8-4DA5-9A13-23D3CBC712F4}|FileStoringService.Tests\\FileStoringService.Tests.csproj|c:\\users\\flouter\\source\\repos\\csharp\\studentreportsmicroservices\\filestoringservice.tests\\filestoringservice.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3FFEED9F-C4E8-4DA5-9A13-23D3CBC712F4}|FileStoringService.Tests\\FileStoringService.Tests.csproj|solutionrelative:filestoringservice.tests\\filestoringservice.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D53F2F6-306C-4750-8BCF-A258CA00E1AC}|ApiGateway\\ApiGateway.csproj|c:\\users\\flouter\\source\\repos\\csharp\\studentreportsmicroservices\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D53F2F6-306C-4750-8BCF-A258CA00E1AC}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D53F2F6-306C-4750-8BCF-A258CA00E1AC}|ApiGateway\\ApiGateway.csproj|c:\\users\\flouter\\source\\repos\\csharp\\studentreportsmicroservices\\apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6D53F2F6-306C-4750-8BCF-A258CA00E1AC}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3EB6FD-6FB2-429B-8862-34C5FE42641A}|FileStoringService\\FileStoringService.csproj|c:\\users\\flouter\\source\\repos\\csharp\\studentreportsmicroservices\\filestoringservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E3EB6FD-6FB2-429B-8862-34C5FE42641A}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AE0345-DAE1-4F01-A8B3-CFAB936C3357}|FileAnalysisService\\FileAnalysisService.csproj|c:\\users\\flouter\\source\\repos\\csharp\\studentreportsmicroservices\\fileanalysisservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{91AE0345-DAE1-4F01-A8B3-CFAB936C3357}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D53F2F6-306C-4750-8BCF-A258CA00E1AC}|ApiGateway\\ApiGateway.csproj|c:\\users\\flouter\\source\\repos\\csharp\\studentreportsmicroservices\\apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6D53F2F6-306C-4750-8BCF-A258CA00E1AC}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3EB6FD-6FB2-429B-8862-34C5FE42641A}|FileStoringService\\FileStoringService.csproj|c:\\users\\flouter\\source\\repos\\csharp\\studentreportsmicroservices\\filestoringservice\\models\\fileuploadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3EB6FD-6FB2-429B-8862-34C5FE42641A}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\models\\fileuploadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3EB6FD-6FB2-429B-8862-34C5FE42641A}|FileStoringService\\FileStoringService.csproj|c:\\users\\flouter\\source\\repos\\csharp\\studentreportsmicroservices\\filestoringservice\\filestoringservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0E3EB6FD-6FB2-429B-8862-34C5FE42641A}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\filestoringservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3EB6FD-6FB2-429B-8862-34C5FE42641A}|FileStoringService\\FileStoringService.csproj|c:\\users\\flouter\\source\\repos\\csharp\\studentreportsmicroservices\\filestoringservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3EB6FD-6FB2-429B-8862-34C5FE42641A}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3EB6FD-6FB2-429B-8862-34C5FE42641A}|FileStoringService\\FileStoringService.csproj|c:\\users\\flouter\\source\\repos\\csharp\\studentreportsmicroservices\\filestoringservice\\fileuploadoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3EB6FD-6FB2-429B-8862-34C5FE42641A}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\fileuploadoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AE0345-DAE1-4F01-A8B3-CFAB936C3357}|FileAnalysisService\\FileAnalysisService.csproj|c:\\users\\flouter\\source\\repos\\csharp\\studentreportsmicroservices\\fileanalysisservice\\models\\analysisresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AE0345-DAE1-4F01-A8B3-CFAB936C3357}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\models\\analysisresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AE0345-DAE1-4F01-A8B3-CFAB936C3357}|FileAnalysisService\\FileAnalysisService.csproj|c:\\users\\flouter\\source\\repos\\csharp\\studentreportsmicroservices\\fileanalysisservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AE0345-DAE1-4F01-A8B3-CFAB936C3357}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D53F2F6-306C-4750-8BCF-A258CA00E1AC}|ApiGateway\\ApiGateway.csproj|c:\\users\\flouter\\source\\repos\\csharp\\studentreportsmicroservices\\apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6D53F2F6-306C-4750-8BCF-A258CA00E1AC}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AE0345-DAE1-4F01-A8B3-CFAB936C3357}|FileAnalysisService\\FileAnalysisService.csproj|c:\\users\\flouter\\source\\repos\\csharp\\studentreportsmicroservices\\fileanalysisservice\\fileanalysisservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{91AE0345-DAE1-4F01-A8B3-CFAB936C3357}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\fileanalysisservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AE0345-DAE1-4F01-A8B3-CFAB936C3357}|FileAnalysisService\\FileAnalysisService.csproj|c:\\users\\flouter\\source\\repos\\csharp\\studentreportsmicroservices\\fileanalysisservice\\data\\analysisdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AE0345-DAE1-4F01-A8B3-CFAB936C3357}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\data\\analysisdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AE0345-DAE1-4F01-A8B3-CFAB936C3357}|FileAnalysisService\\FileAnalysisService.csproj|c:\\users\\flouter\\source\\repos\\csharp\\studentreportsmicroservices\\fileanalysisservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{91AE0345-DAE1-4F01-A8B3-CFAB936C3357}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E9D1B7-C29B-40FF-BD84-23AD0E69B306}|docs{55E9D1B7-C29B-40FF-BD84-23AD0E69B306}|C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\Text.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{55E9D1B7-C29B-40FF-BD84-23AD0E69B306}|docs{55E9D1B7-C29B-40FF-BD84-23AD0E69B306}|solutionrelative:Text.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AE0345-DAE1-4F01-A8B3-CFAB936C3357}|FileAnalysisService\\FileAnalysisService.csproj|c:\\users\\flouter\\source\\repos\\csharp\\studentreportsmicroservices\\fileanalysisservice\\fileanalysisservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{91AE0345-DAE1-4F01-A8B3-CFAB936C3357}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\fileanalysisservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D53F2F6-306C-4750-8BCF-A258CA00E1AC}|ApiGateway\\ApiGateway.csproj|c:\\users\\flouter\\source\\repos\\csharp\\studentreportsmicroservices\\apigateway\\apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6D53F2F6-306C-4750-8BCF-A258CA00E1AC}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D53F2F6-306C-4750-8BCF-A258CA00E1AC}|ApiGateway\\ApiGateway.csproj|c:\\users\\flouter\\source\\repos\\csharp\\studentreportsmicroservices\\apigateway\\apigateway.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{6D53F2F6-306C-4750-8BCF-A258CA00E1AC}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\apigateway.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnalysisControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\FileAnalysisService.Tests\\AnalysisControllerTests.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService.Tests\\AnalysisControllerTests.cs",
+              "ToolTip": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\FileAnalysisService.Tests\\AnalysisControllerTests.cs",
+              "RelativeToolTip": "FileAnalysisService.Tests\\AnalysisControllerTests.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T23:56:20.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\FileStoringService.Tests\\FileControllerTests.cs",
+              "RelativeDocumentMoniker": "FileStoringService.Tests\\FileControllerTests.cs",
+              "ToolTip": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\FileStoringService.Tests\\FileControllerTests.cs",
+              "RelativeToolTip": "FileStoringService.Tests\\FileControllerTests.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T23:53:48.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FilesController.cs",
+              "DocumentMoniker": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\FileStoringService\\Controllers\\FilesController.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Controllers\\FilesController.cs",
+              "ToolTip": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\FileStoringService\\Controllers\\FilesController.cs",
+              "RelativeToolTip": "FileStoringService\\Controllers\\FilesController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:20:07.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AnalysisService.cs",
+              "DocumentMoniker": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\FileAnalysisService\\Services\\AnalysisService.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Services\\AnalysisService.cs",
+              "ToolTip": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\FileAnalysisService\\Services\\AnalysisService.cs",
+              "RelativeToolTip": "FileAnalysisService\\Services\\AnalysisService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:32:29.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AnalysisController.cs",
+              "DocumentMoniker": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\FileAnalysisService\\Controllers\\AnalysisController.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Controllers\\AnalysisController.cs",
+              "ToolTip": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\FileAnalysisService\\Controllers\\AnalysisController.cs",
+              "RelativeToolTip": "FileAnalysisService\\Controllers\\AnalysisController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:33:07.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\FileStoringService\\Controllers\\FileStorageService.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Controllers\\FileStorageService.cs",
+              "ToolTip": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\FileStoringService\\Controllers\\FileStorageService.cs",
+              "RelativeToolTip": "FileStoringService\\Controllers\\FileStorageService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:19:34.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250528213407_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\FileAnalysisService\\Migrations\\20250528213407_InitialCreate.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Migrations\\20250528213407_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\FileAnalysisService\\Migrations\\20250528213407_InitialCreate.cs",
+              "RelativeToolTip": "FileAnalysisService\\Migrations\\20250528213407_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T00:16:03.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FileStoringService.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\FileStoringService.Tests\\FileStoringService.Tests.csproj",
+              "RelativeDocumentMoniker": "FileStoringService.Tests\\FileStoringService.Tests.csproj",
+              "ToolTip": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\FileStoringService.Tests\\FileStoringService.Tests.csproj",
+              "RelativeToolTip": "FileStoringService.Tests\\FileStoringService.Tests.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-28T23:59:53.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\FileStoringService\\Program.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Program.cs",
+              "ToolTip": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\FileStoringService\\Program.cs",
+              "RelativeToolTip": "FileStoringService\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:20:16.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\ApiGateway\\ocelot.json",
+              "RelativeDocumentMoniker": "ApiGateway\\ocelot.json",
+              "ToolTip": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\ApiGateway\\ocelot.json",
+              "RelativeToolTip": "ApiGateway\\ocelot.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-28T19:15:39.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\ApiGateway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ApiGateway\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\ApiGateway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ApiGateway\\Properties\\launchSettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T12:11:21.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\FileStoringService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FileStoringService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\FileStoringService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FileStoringService\\Properties\\launchSettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T12:13:02.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FileUploadModel.cs",
+              "DocumentMoniker": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\FileStoringService\\Models\\FileUploadModel.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Models\\FileUploadModel.cs",
+              "ToolTip": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\FileStoringService\\Models\\FileUploadModel.cs",
+              "RelativeToolTip": "FileStoringService\\Models\\FileUploadModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:27:22.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\FileAnalysisService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\FileAnalysisService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FileAnalysisService\\Properties\\launchSettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T12:12:53.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\ApiGateway\\Program.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Program.cs",
+              "ToolTip": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\ApiGateway\\Program.cs",
+              "RelativeToolTip": "ApiGateway\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:15:56.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FileStoringService.http",
+              "DocumentMoniker": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\FileStoringService\\FileStoringService.http",
+              "RelativeDocumentMoniker": "FileStoringService\\FileStoringService.http",
+              "ToolTip": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\FileStoringService\\FileStoringService.http",
+              "RelativeToolTip": "FileStoringService\\FileStoringService.http",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-28T22:49:44.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FileUploadOperation.cs",
+              "DocumentMoniker": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\FileStoringService\\FileUploadOperation.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\FileUploadOperation.cs",
+              "ToolTip": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\FileStoringService\\FileUploadOperation.cs",
+              "RelativeToolTip": "FileStoringService\\FileUploadOperation.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:25:06.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\FileAnalysisService\\Program.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Program.cs",
+              "ToolTip": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\FileAnalysisService\\Program.cs",
+              "RelativeToolTip": "FileAnalysisService\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:33:16.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AnalysisResult.cs",
+              "DocumentMoniker": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\FileAnalysisService\\Models\\AnalysisResult.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Models\\AnalysisResult.cs",
+              "ToolTip": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\FileAnalysisService\\Models\\AnalysisResult.cs",
+              "RelativeToolTip": "FileAnalysisService\\Models\\AnalysisResult.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:31:55.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Text.txt",
+              "DocumentMoniker": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\Text.txt",
+              "RelativeDocumentMoniker": "Text.txt",
+              "ToolTip": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\Text.txt",
+              "RelativeToolTip": "Text.txt",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-28T20:57:22.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\ApiGateway\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiGateway\\appsettings.json",
+              "ToolTip": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\ApiGateway\\appsettings.json",
+              "RelativeToolTip": "ApiGateway\\appsettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-28T22:00:55.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FileAnalysisService.csproj",
+              "DocumentMoniker": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\FileAnalysisService\\FileAnalysisService.csproj",
+              "RelativeDocumentMoniker": "FileAnalysisService\\FileAnalysisService.csproj",
+              "ToolTip": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\FileAnalysisService\\FileAnalysisService.csproj",
+              "RelativeToolTip": "FileAnalysisService\\FileAnalysisService.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-28T21:27:25.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AnalysisDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\FileAnalysisService\\Data\\AnalysisDbContext.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Data\\AnalysisDbContext.cs",
+              "ToolTip": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\FileAnalysisService\\Data\\AnalysisDbContext.cs",
+              "RelativeToolTip": "FileAnalysisService\\Data\\AnalysisDbContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T21:06:26.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\FileAnalysisService\\appsettings.json",
+              "RelativeDocumentMoniker": "FileAnalysisService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\FileAnalysisService\\appsettings.json",
+              "RelativeToolTip": "FileAnalysisService\\appsettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-28T21:07:24.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FileAnalysisService.http",
+              "DocumentMoniker": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\FileAnalysisService\\FileAnalysisService.http",
+              "RelativeDocumentMoniker": "FileAnalysisService\\FileAnalysisService.http",
+              "ToolTip": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\FileAnalysisService\\FileAnalysisService.http",
+              "RelativeToolTip": "FileAnalysisService\\FileAnalysisService.http",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-28T19:33:16.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApiGateway.csproj",
+              "DocumentMoniker": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\ApiGateway\\ApiGateway.csproj",
+              "RelativeDocumentMoniker": "ApiGateway\\ApiGateway.csproj",
+              "ToolTip": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\ApiGateway\\ApiGateway.csproj",
+              "RelativeToolTip": "ApiGateway\\ApiGateway.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-22T13:01:03.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApiGateway",
+              "DocumentMoniker": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\ApiGateway\\ApiGateway.csproj",
+              "RelativeDocumentMoniker": "ApiGateway\\ApiGateway.csproj",
+              "ToolTip": "C:\\Users\\Flouter\\source\\repos\\csharp\\StudentReportsMicroservices\\ApiGateway\\ApiGateway.csproj",
+              "RelativeToolTip": "ApiGateway\\ApiGateway.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-22T12:11:17.493Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
